@@ -15,6 +15,7 @@ I love to code and explore new things, i always wanted to create my own website 
 ## Tech Stack
 
 **Language:** Core JAVA, HTML, CSS, javascript
+
 **Database** MYSQL, Oracle DB
 
 **Server:** Github Pages
