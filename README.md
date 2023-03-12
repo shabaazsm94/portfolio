@@ -9,12 +9,13 @@ Hey Everyone,Welcome to my repository here i have created my first website
 
 ## 🚀 About Me
 I'm a Technical Consultant / Java Developer...
-I love to code and explore new things, i always wanted to create my own websote for so long and this is just a stepping stone.
+I love to code and explore new things, i always wanted to create my own website for so long and this is just a stepping stone.
 
 
 ## Tech Stack
 
-**Language:** HTML, CSS, javascript
+**Language:** Core JAVA, HTML, CSS, javascript
+**Database** MYSQL, Oracle DB
 
 **Server:** Github Pages
 
